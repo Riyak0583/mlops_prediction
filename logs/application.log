@@ -1,0 +1,12 @@
+2026-11-26 18:59:33 | INFO     | src.data_ingestion:data_ingestion:18 | Data Ingestion Completed Successfully with (50000, 30)
+2026-11-26 19:00:53 | INFO     | src.data_ingestion:data_ingestion:18 | Data Ingestion Completed Successfully with (50000, 30)
+2026-11-26 19:00:53 | INFO     | src.data_ingestion:data_ingestion:19 | Dataset Columns ....Index(['record_id', 'timestamp', 'mine_id', 'conveyor_id', 'idler_id',
+       'vibration_rms', 'vibration_peak', 'vibration_kurtosis',
+       'vibration_crest_factor', 'bpfo_amplitude', 'bpfi_amplitude',
+       'bsf_amplitude', 'ftf_amplitude', 'bearing_temperature',
+       'acoustic_level', 'rotational_speed', 'ambient_temperature', 'humidity',
+       'dust_concentration', 'moisture_level', 'operating_hours',
+       'conveyor_load', 'belt_speed', 'motor_current', 'lubrication_age_hours',
+       'last_maintenance_hours', 'previous_failure_count',
+       'seal_condition_score', 'bearing_age_months', 'failure_within_7_days'],
+      dtype='str')
